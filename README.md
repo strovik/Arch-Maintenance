@@ -1,2 +1,2 @@
-# dotfiles
-My dotfiles
+# arch maintenance
+My arch maintenance
